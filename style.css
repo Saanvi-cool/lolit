@@ -1,0 +1,12 @@
+body{
+    background-color: aliceblue;
+}
+.heading{
+   
+    background-color: rgb(164, 203, 243);
+    padding: 15px;
+    padding-left: 125px;
+    border-radius: 50px;
+    color: black;
+    border: 10px solid rgb(0, 0, 255);
+}
